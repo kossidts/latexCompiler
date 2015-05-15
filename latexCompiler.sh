@@ -193,7 +193,7 @@ then
 	if [ "$fileExists_tex" == "yes" ]
 	then
 		echo -e "\nmaking the index ...\n"
-		makeindex "${TEXFILE%.*}" -s ../_latex/indexStyle.ist
+		makeindex "${TEXFILE%.*}" 
 	else 
 		echo "##########################################################"
 		echo -e "\nERROR: In order to create the index page,"
