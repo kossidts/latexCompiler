@@ -1,0 +1,102 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{kaballo2011grundkurs}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9491cb7dc01e67cd27c234a0b6c03c5a}{Kaballo}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9491cb7dc01e67cd27c234a0b6c03c5a}{Kaballo}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{9491cb7dc01e67cd27c234a0b6c03c5a}
+      \strng{fullhash}{9491cb7dc01e67cd27c234a0b6c03c5a}
+      \field{sortinit}{K}
+      \field{labeltitle}{Grundkurs Funktionalanalysis}
+      \field{isbn}{9783827427212}
+      \field{title}{Grundkurs Funktionalanalysis}
+      \field{year}{2011}
+    \endentry
+    \entry{rieg2014finite}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=594c27786aa5961e46067c5bce97ef13}{Rieg}{R\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05bfc62b5445937fbed4ea7ea7c22902}{Hackenschmidt}{H\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=40e351e842e9ddbea302e7b96c62920d}{Alber-Laukant}{A\bibinithyphendelim L\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=594c27786aa5961e46067c5bce97ef13}{Rieg}{R\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05bfc62b5445937fbed4ea7ea7c22902}{Hackenschmidt}{H\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=40e351e842e9ddbea302e7b96c62920d}{Alber-Laukant}{A\bibinithyphendelim L\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag GmbH \& Company KG}%
+      }
+      \strng{namehash}{a4231912bfa6bcec186eb1353d2dadca}
+      \strng{fullhash}{a4231912bfa6bcec186eb1353d2dadca}
+      \field{sortinit}{R}
+      \field{labeltitle}{Finite Elemente Analyse f{\"u}r Ingenieure: Grundlagen und praktische Anwendungen mit Z88Aurora}
+      \field{isbn}{9783446443181}
+      \field{title}{Finite Elemente Analyse f{\"u}r Ingenieure: Grundlagen und praktische Anwendungen mit Z88Aurora}
+      \field{year}{2014}
+    \endentry
+    \entry{svgInLatex}{url}{}
+      \name{labelname}{1}{}{%
+        {{hash=6d068981410580b3c50e08b85e0e9e67}{Saka}{S\bibinitperiod}{Kossi\bibnamedelimb D.\bibnamedelimi T.}{K\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6d068981410580b3c50e08b85e0e9e67}{Saka}{S\bibinitperiod}{Kossi\bibnamedelimb D.\bibnamedelimi T.}{K\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6d068981410580b3c50e08b85e0e9e67}
+      \strng{fullhash}{6d068981410580b3c50e08b85e0e9e67}
+      \field{sortinit}{S}
+      \field{labeltitle}{Svg-Datei In Latex-Dokument Einbinden}
+      \field{title}{Svg-Datei In Latex-Dokument Einbinden}
+      \verb{url}
+      \verb http://wpress.justhackit.de/hacks/latex/svg-datei-in-latex-dokument-einbinden/
+      \endverb
+      \keyw{Svg}
+    \endentry
+    \entry{schwarz2011numerische}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=f213b363f7f20e69c23cd67c956aff70}{Schwarz}{S\bibinitperiod}{H.R.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=1e41049e511f6e7ff1659e29705c7598}{K{\"o}ckler}{K\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f213b363f7f20e69c23cd67c956aff70}{Schwarz}{S\bibinitperiod}{H.R.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=1e41049e511f6e7ff1659e29705c7598}{K{\"o}ckler}{K\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner Verlag}%
+      }
+      \strng{namehash}{a73b28b52306fdd282edd16653a04dd3}
+      \strng{fullhash}{a73b28b52306fdd282edd16653a04dd3}
+      \field{sortinit}{S}
+      \field{labeltitle}{Numerische Mathematik}
+      \field{isbn}{9783834881663}
+      \field{title}{Numerische Mathematik}
+      \field{year}{2011}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
